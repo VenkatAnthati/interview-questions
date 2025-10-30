@@ -1,5 +1,6 @@
 package com.practice.java.dsa;
 
+
 public class ContainerWithMostWater {
     public static int maxArea(int[] height) {
         int left = 0;
